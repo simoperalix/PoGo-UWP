@@ -16,19 +16,19 @@
     <value>È necessario attendere</value>
   </data>
   <data name="GoogleLoginTextBlock.Text" xml:space="preserve">
-    <value>GOOGLE</value>
+    <value>Login con Google</value>
   </data>
   <data name="InventoryFullTextBlock.Text" xml:space="preserve">
     <value>Il tuo inventario è pieno!</value>
   </data>
   <data name="PtcLoginTextBlock.Text" xml:space="preserve">
-    <value>LOGIN con Account PTC</value>
+    <value>Login con Account Pokemon Trainer Club</value>
   </data>
   <data name="LoginDisclaimerTextBox.Text" xml:space="preserve">
-    <value>Per effettuare il login è necessario inserire il tuo Username/Email e Password. Se non ti fidi, per favore, chiudi prima di procedere. Non siamo responsabili di nulla.</value>
+    <value>Per effettuare il login è necessario inserire la tua Username/Email e Password. Se non ti fidi, per favore, chiudi l'applicazione invece di procedere. Non siamo responsabili di nulla.</value>
   </data>
   <data name="NearbyPokemonTextBlock.Text" xml:space="preserve">
-    <value>nelle vicinanze</value>
+    <value>Pokemon nelle vicinanze</value>
   </data>
   <data name="OutOfRangeTextBlock.Text" xml:space="preserve">
     <value>Sei troppo lontano</value>
@@ -92,10 +92,16 @@
     <value>Livello</value>
   </data>
   <data name="SettingsMapAutoRotateTextBlock.Text" xml:space="preserve">
-    <value>Autorotazione mappa</value>
+    <value>Ruota mappa automaticamente</value>
   </data>
   <data name="StartDateTextBlock.Text" xml:space="preserve">
     <value>DATA DI INIZIO</value>
+  </data>
+  <data name="SettingsRememberMapZoomTextBlock" xml:space="preserve">
+    <value>Ricorda lo zoom nella mappa</value>
+  </data>
+  <data name="SettingsUseNianticMapTextBlock.Text" xml:space="preserve">
+    <value>Usa la mappa originale</value>
   </data>
   <data name="IncubatorsTextBlock.Text" xml:space="preserve">
     <value>INCUBATRICI</value>
