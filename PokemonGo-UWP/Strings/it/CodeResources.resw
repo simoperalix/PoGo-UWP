@@ -22,10 +22,10 @@
     <value>{0} è scappato</value>
   </data>
   <data name="GettingGpsSignalText" xml:space="preserve">
-    <value>Recupero del segnale GPS...</value>
+    <value>Sto recuperando il segnale GPS...</value>
   </data>
   <data name="GettingUserDataText" xml:space="preserve">
-    <value>Recupero dei dati utente...</value>
+    <value>Sto recuperando i dati dell'utente...</value>
   </data>
   <data name="GoogleErrorText" xml:space="preserve">
     <value>Errore sull'autenticazione Google</value>
@@ -37,7 +37,7 @@
     <value>Caricamento incontro con {0}</value>
   </data>
   <data name="LoggingInText" xml:space="preserve">
-    <value>Log-in...</value>
+    <value>Sto effettuando il login...</value>
   </data>
   <data name="LoginFailedText" xml:space="preserve">
     <value>Impossibile eseguire l'accesso, si prega di riprovare.</value>
@@ -46,22 +46,22 @@
     <value>No</value>
   </data>
   <data name="NoGpsPermissionsText" xml:space="preserve">
-    <value>Abilitare il gioco all'utilizzo del GPS per eseguirlo, si prega di attivarlo e riprovare.</value>
+    <value>Il GPS è spento o non hai dato il permesso all'uso, per favore controlla e riprova.</value>
   </data>
   <data name="PokemonRanAwayText" xml:space="preserve">
-    <value>Il Pokémon è scappato, mi dispiace :(</value>
+    <value>Il Pokémon è scappato</value>
   </data>
   <data name="PtcDownText" xml:space="preserve">
     <value>Il Login su PTC è probabilmente down, si prega di riprovare più tardi.</value>
   </data>
   <data name="SomethingWentWrongText" xml:space="preserve">
-    <value>Qualcosa è andato storto e l'app può risultare instabile in questo momento. Vuoi effettuare il logout e riprovare?</value>
+    <value>Qualcosa è andato storto... Vuoi effettuare il logout e riprovare?</value>
   </data>
   <data name="TimeFormat" xml:space="preserve">
     <value>hh:mm tt</value>
   </data>
   <data name="UpdateDownloadingText" xml:space="preserve">
-    <value>Scarimaneto Aggiornamento {0}</value>
+    <value>Scaricamento Aggiornamento {0}</value>
   </data>
   <data name="UpdatedVersionText" xml:space="preserve">
     <value>Una nuova versione {0} è disponibile. Vuoi aggiornare? 
@@ -75,7 +75,7 @@ Apri pagina con il file di installazione per l'installazione manuale?</value>
     <value>Aggiornamento installato, l'app si riavvierà</value>
   </data>
   <data name="WrongUsernameText" xml:space="preserve">
-    <value>nome utente/password errati o il server risulta offline, si prega di riprovare.</value>
+    <value>Il nome utente o la password sono errati, si prega di riprovare.</value>
   </data>
   <data name="YesText" xml:space="preserve">
     <value>Sì</value>
